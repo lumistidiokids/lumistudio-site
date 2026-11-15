@@ -122,5 +122,7 @@ h1{font-size:clamp(34px,5.2vw,62px);margin:.15em 0 .35em}
 .hero{background:linear-gradient(180deg,#fff7e8 0%,var(--bg) 100%)}
 .ct b,.tile b{color:var(--ink)}
 .tile:nth-child(3n+1) b{color:var(--blue)}.tile:nth-child(3n+2) b{color:var(--accent-d)}.tile:nth-child(3n) b{color:#4b8a3c}
+#shop .h2{font-size:clamp(36px,5vw,60px)}
+#shop .shead p{font-size:18px}
 
 .text figure{margin:28px 0}.text figure img{width:100%;height:auto;border-radius:14px;display:block}
