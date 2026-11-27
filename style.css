@@ -125,6 +125,12 @@ h1{font-size:clamp(34px,5.2vw,62px);margin:.15em 0 .35em}
 #shop .h2{font-size:clamp(36px,5vw,60px)}
 #shop .shead p{font-size:18px}
 
+.card .cname{text-decoration:none;color:inherit}
+.cbuy{display:flex;align-items:center;gap:12px;margin-top:10px}
+.cbuy em{font-style:normal;font-weight:700;color:var(--ink);font-size:17px}
+.btn.small{padding:9px 18px;font-size:15px}
+.ct span{display:block}
+
 .salebar{background:#1e2a5e;color:#fff;text-align:center;font-size:15px;padding:9px 16px}.salebar a{color:#fff;text-decoration:none}.salebar b{color:#f6b81a;margin-left:6px;white-space:nowrap}
 .dlbox{background:#fff5e8;border-radius:16px;padding:20px 22px;margin:24px 0}.dlbox .btn{margin:6px 8px 6px 0}.text details.ans{margin:-12px 0 28px}.text details.ans summary{cursor:pointer;font-weight:700;color:#2f63c0}.text details.ans img{width:100%;height:auto;border-radius:14px;margin-top:12px}.text ol.games li{margin:10px 0}
 .text figure{margin:28px 0}.text figure img{width:100%;height:auto;border-radius:14px;display:block}
